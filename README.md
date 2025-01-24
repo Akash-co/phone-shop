@@ -1,6 +1,6 @@
 # phone-shop
 
-Here's a sample `README.md` file you can use for your project:
+
 
 ---
 
